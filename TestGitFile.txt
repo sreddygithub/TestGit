@@ -1,6 +1,4 @@
 Git successfully installed testing Git Hub Repository.
-Git successfully installed testing Git Hub Repository.
-Git successfully installed testing Git Hub Repository.
-Git successfully installed testing Git Hub Repository.
-Git successfully installed testing Git Hub Repository.
-New data added.
+Honda Accord is nice 
+Added one line
+Three lines removed.
